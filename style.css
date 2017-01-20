@@ -1,0 +1,51 @@
+header {
+background-color: #002954;
+font-size: 60px;
+text-align: center;
+color: #E1F2FB;
+text-shadow: .8px .8px
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+  text-align: center;
+}
+
+main h2 {
+  text-align: left;
+}
+main p {
+  text-align: justify;
+  font-size: 24px;
+}
+
+footer {
+background-color: #012840;
+color: white;
+text-align: center;
+}
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
+
+body {
+  font-family: 'Pontano Sans', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px
+}
+
+img { width: 65%;
+}
+
+a:link    { color: blue; }
+a:visited { color: grey;   }
+a:hover   { color: grey; }
+a:active  { color: grey;  }
